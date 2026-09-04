@@ -6,6 +6,7 @@ CollabFlow is a scalable full-stack project management platform designed to simp
 Inspired by modern workflow tools like Trello and Notion, CollabFlow combines workspace organization, Kanban task management, deadline tracking, and team collaboration into one seamless experience.
 
 
+
 Built for productivity-focused teams, CollabFlow helps transform scattered workflows into structured, trackable systems.
 
 
