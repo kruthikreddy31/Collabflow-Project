@@ -9,7 +9,6 @@ Inspired by modern workflow tools like Trello and Notion, CollabFlow combines wo
 
 Built for productivity-focused teams, CollabFlow helps transform scattered workflows into structured, trackable systems.
 
-
 ---
 
 ## 🌍 Live Demo
